@@ -1,0 +1,29 @@
+body{
+    margin: 20px auto;
+    width: 70%;
+    font-size: 25px;
+    
+}
+
+#container {
+    text-align: center;
+    background-color: rgb(205, 248, 255);
+    border: 1px solid rgb(95, 180, 193);
+    border-radius: 5px;
+}
+
+#text{
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(240, 240, 240);
+    border: 1px solid rgb(95, 180, 193);
+    border-radius: 5px;
+}
+
+#timer {
+    margin: 20px;
+}
+
+.highlight {
+    background-color: rgb(166, 166, 166) ;
+}
